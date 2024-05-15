@@ -1,0 +1,1 @@
+Hello. It is the readme file for my first project in GIT.
