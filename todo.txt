@@ -1,1 +1,2 @@
 1. Сделать аккаунта на GitHub.
+2. Some changes
