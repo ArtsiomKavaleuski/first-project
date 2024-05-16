@@ -5,8 +5,8 @@
 ---
 ` // some example of java code 
 class Test {
-    public static void Main (String args[]) {
-        System.out.println("Hello world");
-	}
+```public static void Main (String args[]) {
+```System.out.println("Hello world");
+}
 }`
 ---
